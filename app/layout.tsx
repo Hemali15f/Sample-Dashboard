@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'sales Insights',
+  description: 'The application provides an intuitive interface to manage sales data, teams, schedules, notifications, and reports through a clean layout.',
+  
   icons: {
     icon: [
       {
